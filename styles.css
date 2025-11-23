@@ -37,8 +37,6 @@ p, li {
     text-decoration: underline;
 }
 
-<head>
-<style>
 .moods {
     display: flex;
     flex-direction: row;
@@ -49,5 +47,5 @@ p, li {
 .mood-item {
     text-align: center;
 }
-</style>
-</head>
+
+
